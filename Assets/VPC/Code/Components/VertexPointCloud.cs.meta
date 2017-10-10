@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d5dbe11854c0e8142b30f1a53aafa238
+timeCreated: 1502986834
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pointMesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+  - pointMaterial: {fileID: 2100000, guid: 9ec475af3ec467047a6ef27d51f262eb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
